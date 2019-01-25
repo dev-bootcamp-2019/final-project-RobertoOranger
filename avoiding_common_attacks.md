@@ -1,7 +1,7 @@
 Security Tools / Common Attacks
 
 
-No external contract call is performed other than the owner of CertificateFactory.  the contract thus there is no Reentrancy vulnerability.
+No external contract call is performed other than the owner of CertificateFactory.  the contract thus there is no Reentrancy    vulnerability.
 
 There is no timestamp dependency in the contract. 
 
