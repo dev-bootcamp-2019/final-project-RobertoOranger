@@ -1,4 +1,4 @@
-Design Pattern Decision
+Design Pattern Decisions
 
 There are various ways to notarize documents such as degree, certificates of ownership etc. 
 I want to experiment and study the factory contracts and applicability by this final project. 
