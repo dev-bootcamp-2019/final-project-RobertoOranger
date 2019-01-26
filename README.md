@@ -7,7 +7,7 @@ User Story case:                                                                
 
 There are dev bootcamp's students with more experience than me. Thanks for your pacience. I can evaluate your projects.
 
-Unfurtunately i have not made a font end interface. Sorry. But you can compile and run a simplified solidity version code with remix at this link: https://github.com/RobertoOranger/2019-final-project-remix/tree/master
+Unfurtunately i have not made a front end interface. Sorry. But you can compile and run a simplified solidity version code with remix at this link: https://github.com/RobertoOranger/2019-final-project-remix/tree/master
 
 
 
