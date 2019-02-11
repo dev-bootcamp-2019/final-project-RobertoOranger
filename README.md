@@ -8,12 +8,14 @@ How to prove that your degree or certificate is true?hot to prevent false certif
 Istitutions, Schools or Universities can register details of degrees using CertificateFactory to create  contracts for their students.  Only the Istitutions can create it, because they are the owners of CertificateFactory.
 
 There are dev bootcamp's students with more experience than me. Thanks for your pacience. I can evaluate your projects.
+
 Future developments:
 - Ash of degrees by IPFS
 - Upgradable contracts using Zeppelin proxy-patterns
 - Checking data of degree by other people
-- mapping of data using Swarm
-- new applications
+- Mapping of data using Swarm
+- New projects and usages
+
 
 Unfurtunately i have not made a front end interface. Sorry. But you can compile and run a simplified solidity version code with remix at this link: https://github.com/RobertoOranger/2019-final-project-remix/tree/master
 
